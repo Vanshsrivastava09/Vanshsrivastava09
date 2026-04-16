@@ -13,6 +13,12 @@
 
 # 🚀 Featured Projects
 
+🔹 IPL Cricket Analytics Dashboard & Match Predictor
+- Built with Python, Pandas, SQLite, Scikit-learn, Plotly, Streamlit  
+- Analyzed 260K+ rows of IPL data (2008–2024)  
+- Built Random Forest model for match winner prediction  
+- Interactive dashboard with filters and KPI cards  
+
 🔹 **E-commerce Analytics Dashboard**  
 - Built using Python, Pandas, Streamlit  
 - Analyzed sales trends and customer behavior  
