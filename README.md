@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Srivastava</h1>
-<h3 align="center">Aspiring ML Engineer | Full Stack Developer | Data Analytics Enthusiast</h3>
+<h3 align="center">Aspiring ML Engineer | Building AI & Full Stack Projects</h3>
 
 <p align="center">
 Building real-world projects with Machine Learning, Python, React, and Data Analytics.
