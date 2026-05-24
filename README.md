@@ -1,64 +1,129 @@
-# 💫 About Me:
-🚀 I’m currently working on  <br>- Data Analytics projects using Python, Pandas, and SQL  <br>- Building interactive dashboards using Streamlit  <br><br>🤝 I’m looking to collaborate on  <br>- Data Analysis / Machine Learning projects  <br>- Open-source beginner-friendly projects  <br><br>🧠 I’m looking for help with  <br>- Advanced SQL and real-world datasets  <br>- Improving ML model performance  <br><br>🌱 I’m currently learning  <br>- Machine Learning (Scikit-learn)  <br>- Data Visualization (Plotly, Power BI basics)  <br><br>💬 Ask me about  <br>- Python, Data Analysis, EDA  <br>- Beginner Machine Learning projects  <br><br>⚡ Fun fact  <br>- I love analyzing cricket stats and real-world datasets 📊
+<h1 align="center">Hi 👋, I'm Vansh Srivastava</h1>
+<h3 align="center">Aspiring ML Engineer | Full Stack Developer | Data Analytics Enthusiast</h3>
 
+<p align="center">
+Building real-world projects with Machine Learning, Python, React, and Data Analytics.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i.m.vanshsrivastava?igsh=MWtiZnZvNGtrZ3E3cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vanshsrivastava09/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vansh23srivastava@gmail.com) 
+---
 
+## 🚀 About Me
 
+- 🎯 Focused on becoming placement-ready for **ML Engineering & Software roles**
+- 🧠 Currently learning:
+  - Machine Learning & Deep Learning
+  - PyTorch & HuggingFace
+  - Advanced SQL & System Design basics
+- 💻 Building:
+  - End-to-End ML Projects
+  - Full Stack Applications
+  - Data Analytics Dashboards
+- 🌱 Exploring:
+  - MLOps
+  - FastAPI
+  - Model Deployment
+- ⚡ Strong interest in solving real-world problems using data and AI
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+---
 
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Machine Learning & Data
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
 
 # 🚀 Featured Projects
 
-🔹 IPL Cricket Analytics Dashboard & Match Predictor
-- Built with Python, Pandas, SQLite, Scikit-learn, Plotly, Streamlit  
-- Analyzed 260K+ rows of IPL data (2008–2024)  
-- Built Random Forest model for match winner prediction  
-- Interactive dashboard with filters and KPI cards  
+## 🏏 IPL Analytics Dashboard & Match Predictor
+- Built an interactive analytics dashboard using **Python, Pandas, Plotly, Streamlit**
+- Analyzed **260K+ IPL match records**
+- Trained a **Random Forest ML model** for match prediction
+- Implemented KPI cards, filtering, trend analysis, and visual insights
 
-🔹 **E-commerce Analytics Dashboard**  
-- Built using Python, Pandas, Streamlit  
-- Analyzed sales trends and customer behavior  
-- Implemented KPI tracking and forecasting  
+---
 
-🔹 **Password Security Tool**  
-- Developed using Python and Regex  
-- Evaluates password strength using entropy  
-- Suggests improvements for better security  
+## 🛒 E-Commerce Analytics Dashboard
+- Performed sales and customer behavior analysis
+- Built interactive visualizations and KPI tracking
+- Used Python, Pandas, and Streamlit for real-time exploration
 
-🔹 **(Upcoming) SQL Data Analysis Project**  
-- Writing 20+ real-world SQL queries  
-- Extracting business insights from datasets  
+---
 
-🔹 **(Upcoming) ML End-to-End Project**  
-- Data preprocessing → Model → Deployment
+## 🔐 Password Security Analyzer
+- Developed a password strength checker using Python & Regex
+- Implemented entropy-based validation logic
+- Generated security recommendations dynamically
 
+---
 
-# 🎯 Current Focus
+## 🏢 Employee Management System
+- Full Stack web application with authentication and CRUD operations
+- Built using modern frontend and backend technologies
+- Deployed project with responsive UI and database integration
 
-- Strengthening SQL for Data Analysis  
-- Building real-world ML projects  
-- Improving data storytelling skills
+---
 
-# 🏆 Achievements
+# 📈 Current Goals
 
-- Built and deployed 2 data-driven projects  
-- Actively learning Data Analysis & Machine Learning  
-- Strong foundation in Python and problem-solving  
+- Building production-level ML projects
+- Improving DSA & problem-solving skills
+- Learning Deep Learning & Transformers
+- Strengthening backend development skills
+- Preparing for ML Engineer & SDE placements
 
+---
 
-# 📊 GitHub Stats:
+## 🌐 Connect With Me
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vanshsrivastava09&show_icons=true&theme=radical" />
+<p align="left">
+<a href="https://www.linkedin.com/in/vanshsrivastava09/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 
-<img src="https://streak-stats.demolab.com/?user=Vanshsrivastava09&theme=radical" />
+<a href="mailto:vansh23srivastava@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vanshsrivastava09&layout=compact&theme=radical" />
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 📊 GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vanshsrivastava09&show_icons=true&theme=tokyonight" height="180em" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshsrivastava09&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshsrivastava09&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 💡 Quote I Believe In
+
+> “Consistency compounds. Small improvements every day create massive results over time.”
