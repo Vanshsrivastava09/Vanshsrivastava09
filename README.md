@@ -36,13 +36,13 @@ Building AI-powered applications, scalable backend systems, and real-world ML pr
 ## Machine Learning & Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
@@ -127,28 +127,18 @@ Building AI-powered applications, scalable backend systems, and real-world ML pr
 # 📊 GitHub Stats
 
 <p align="center">
-
+  
 <img 
-src="https://github-readme-stats.vercel.app/api?username=Vanshsrivastava09&show_icons=true&theme=tokyonight&hide_border=true"
-height="170"
+height="180em" 
+src="https://github-readme-stats-salesp07.vercel.app/api?username=Vanshsrivastava09&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
 />
 
 <img 
-src="https://github-readme-streak-stats-eight.vercel.app/?user=Vanshsrivastava09&theme=tokyonight&hide_border=true"
-height="170"
-/>
-
-</p>
-
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshsrivastava09&layout=compact&theme=tokyonight&hide_border=true"
+height="180em" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshsrivastava09&theme=tokyonight&hide_border=true" 
 />
 
 </p>
-
----
 
 # 💡 Philosophy
 
