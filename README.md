@@ -126,11 +126,22 @@ Building AI-powered applications, scalable backend systems, and real-world ML pr
 
 ## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vanshsrivastava09)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshsrivastava09&theme=tokyo-night&hide_border=true" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanshsrivastava09&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanshsrivastava09&theme=tokyonight" />
+</p>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanshsrivastava09&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanshsrivastava09&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanshsrivastava09&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vanshsrivastava09&theme=tokyonight" />
+</p>
 
 # 💡 Philosophy
 
