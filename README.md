@@ -124,20 +124,15 @@ Building AI-powered applications, scalable backend systems, and real-world ML pr
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  
-<img 
-height="180em" 
-src="https://github-readme-stats-salesp07.vercel.app/api?username=Vanshsrivastava09&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshsrivastava09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshsrivastava09&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-<img 
-height="180em" 
-src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshsrivastava09&theme=tokyonight&hide_border=true" 
-/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshsrivastava09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 # 💡 Philosophy
