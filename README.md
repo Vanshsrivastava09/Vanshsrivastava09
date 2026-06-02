@@ -126,7 +126,7 @@ Building AI-powered applications, scalable backend systems, and real-world ML pr
 
 ## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Vanshsrivastava09&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vanshsrivastava09)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vanshsrivastava09&theme=tokyo-night)
 
