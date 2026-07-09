@@ -1,157 +1,99 @@
-<h1 align="center">Hi 👋, I'm Vansh Srivastava</h1>
+<div align="center">
 
-<h3 align="center">  
-ML Engineer | Python Developer | Building Real-World AI Systems 
-</h3>
- 
-<p align="center">    
-Building AI-powered applications, scalable backend systems, and real-world ML projects 🚀
-</p>
-
----
-
-# 🚀 About Me
-
-- 🎯 Focused on becoming placement-ready for ML Engineering & Software roles
-- 🧠 Currently learning:
-  - Machine Learning & Deep Learning
-  - PyTorch & HuggingFace
-  - Advanced SQL & Backend Systems
-- 💻 Building:
-  - End-to-End ML Projects
-  - Full Stack Applications
-  - AI-Powered Systems
-- ⚡ Interested in solving real-world problems using AI, data, and scalable systems
-
----
-
-# 🛠️ Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-</p>
-
-## Machine Learning & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-## Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js" />
-</p>
-
-## Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🏏 IPL Analytics Dashboard & Match Predictor
-
-- Developed an interactive IPL analytics platform processing 260K+ match records
-- Built an ML-powered match prediction system using Random Forest
-- Implemented advanced filtering, KPI tracking, trend analysis, and visual insights
-- Tech Stack: Python, Pandas, Plotly, Scikit-learn, Streamlit
-
----
-
-## 🛒 E-Commerce Analytics Dashboard
-
-- Analyzed customer behavior and sales trends using real-world datasets
-- Built interactive dashboards and KPI monitoring systems
-- Performed data cleaning, visualization, and business insight extraction
-- Tech Stack: Python, Pandas, Streamlit
-
----
-
-## 🔐 Password Security Analyzer
-
-- Developed a password strength analyzer with entropy-based validation
-- Implemented regex-driven security checks and dynamic recommendations
-- Focused on secure password evaluation and usability
-- Tech Stack: Python, Regex, Streamlit
-
----
-
-## 🏢 Employee Management System
-
-- Built a full stack employee management platform with authentication and CRUD functionality
-- Developed responsive frontend and backend architecture
-- Implemented database integration and deployment pipeline
-- Tech Stack: React, Node.js, Express.js, MongoDB
-
----
-
-# 📈 Current Focus
-
-- Building production-level ML projects
-- Learning Deep Learning & Transformers
-- Improving DSA & problem-solving skills
-- Strengthening backend development skills
-- Preparing for ML Engineer & Software placements
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/vanshsrivastava09/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<!-- Typing animation intro -->
+<a href="https://github.com/Vanshsrivastava09">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vansh+%F0%9F%91%8B;Final-Year+CSCE+Student+%40+KIIT;Building+with+Python%2C+ML+%26+Data;Turning+messy+data+into+decisions" alt="Typing SVG" />
 </a>
 
-<a href="mailto:vansh23srivastava@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Analytics
+### `whoami`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanshsrivastava09&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanshsrivastava09&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vanshsrivastava09&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vanshsrivastava09&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vanshsrivastava09&theme=tokyonight" />
-</p>
-
-# 💡 Philosophy
-
-> “Consistency compounds. Small improvements every day create massive results over time.”
+```yaml
+Name       : Vansh Srivastava
+From       : Bhubaneswar, Odisha, India
+Education  : B.Tech in Computer Science & Communication Engineering (CSCE)
+             KIIT University · Final Year (2023 – 2027)
+Interests  : Backend systems, Machine Learning, FinTech, Generative AI
+Currently  : Final year student, open to SDE / Data Science internships & roles
+```
 
 ---
 
-# 📌 2026 Goals
+### `ls skills/`
 
-- Deploy production-ready ML applications
-- Contribute to impactful open-source projects
-- Build scalable AI-powered systems
-- Become placement-ready for ML & Software Engineering roles
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,c,js,ts,py" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,git,github,vscode,postman" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+
+**Core Concepts**
+
+`OOP` &nbsp;•&nbsp; `DBMS` &nbsp;•&nbsp; `DSA` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Problem Solving`
+
+**AI / ML**
+
+`Scikit-Learn` &nbsp;•&nbsp; `Pandas` &nbsp;•&nbsp; `NumPy` &nbsp;•&nbsp; `Plotly` &nbsp;•&nbsp; `Matplotlib` &nbsp;•&nbsp; `Streamlit`
+
+---
+
+### `github_stats.exe`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vanshsrivastava09&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshsrivastava09&layout=compact&theme=react&hide_border=true" width="40%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshsrivastava09&theme=react&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+### `cat achievements.log`
+
+```yaml
+[★] Special Mention — Pandora's Paradox Hackathon, KIIT E-Summit 2025
+[★] Built NorthStar Pay — production-ready payment gateway simulator (FastAPI + Docker)
+[★] Built an ML-based IPL match predictor processing 260,000+ real match records
+[★] Shipped 3+ full-stack / data projects solo, from backend to dashboard
+```
+
+---
+
+### Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **[NorthStar Pay](https://github.com/Vanshsrivastava09)** | FastAPI · PostgreSQL · SQLAlchemy · JWT · Docker | Wallet creation, merchant payments, JWT + OTP auth, Dockerized |
+| **[IPL Analytics & Predictor](https://github.com/Vanshsrivastava09)** | Python · SQLite · Streamlit · Scikit-Learn | Random Forest predictor on 260K+ records, SQL dashboards |
+| **[E-Commerce Analytics Dashboard](https://github.com/Vanshsrivastava09)** | Python · Streamlit · Pandas · Plotly | KPI tracking, EDA, interactive forecasting visuals |
+
+*(Replace the placeholder links above with your actual repo URLs.)*
+
+---
+
+### `./connect.sh`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsrivastava09/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh23srivastava@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Thanks for stopping by — always open to interesting conversations about ML, backend systems, or FinTech.</sub>
+</div>
