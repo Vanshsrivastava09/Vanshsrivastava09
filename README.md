@@ -1,91 +1,110 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+BOOT...;%3E+LOADING+PROFILE%3A+Vanshsrivastava09;%3E+STATUS%3A+ONLINE+%E2%9C%93" alt="boot sequence" />
-
-<br/>
-
-### Hiya! I am Vansh, Welcome to my code lab 🧪
-
-<img src="https://komarev.com/ghpvc/?username=Vanshsrivastava09&label=Profile+Visits&color=22c55e&style=flat" />
-
-</div>
-
----
-
-### `github_stats.exe`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vanshsrivastava09&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshsrivastava09&layout=compact&theme=react&hide_border=true" width="40%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshsrivastava09&theme=react&hide_border=true" width="70%" />
-
-</div>
-
----
-
-<div align="center">
-
-<details>
-<summary>▶ &nbsp;✨ <b>CLICK ME</b> ✨</summary>
-
-<br/>
-
-```yaml
-Name       : Vansh Srivastava
-From       : Bhubaneswar, Odisha, India
-Education  : Pursuing B.Tech in Computer Science & Communication Engineering
-             from KIIT University, Final Year (2027 batch)
-Interests  : Backend systems, Machine Learning, FinTech — I like building 
-             things that actually solve a real problem, not just demos
-Currently  : Final year student, open to SDE / Data Science internships & roles
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   > SYSTEM BOOT...                                      │
+│   > LOADING PROFILE: Vanshsrivastava09                   │
+│   > STATUS: ONLINE ██████████ 100%                      │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
-</details>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=500&color=00FF41&center=true&width=600&lines=Hiya+!+I+am+Vansh+%2C+Welcome+to+my+code+lab+%3E_;final+year+%7C+KIIT+University+%7C+CSCE;
+turning+messy+data+into+decisions%2C+one+commit+at+a+time" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Vanshsrivastava09&color=00ff41&label=Profile+Visits&style=flat-square" alt="Profile Visits" width="160"/>
 
 </div>
 
 ---
 
-### `ls skills/`
+<div align="center">
+
+## `📊 github_stats.exe`
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vanshsrivastava09&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="160" />
+&nbsp;&nbsp;
+<img src="https://streak-stats.demolab.com/?user=Vanshsrivastava09&theme=chartreuse-dark&hide_border=true" height="160" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.shion.dev/api?username=Vanshsrivastava09&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+
+<br/>
+
+<!-- Trophy showcase — extra flair, real widget -->
+<img src="https://github-profile-trophy.vercel.app/?username=Vanshsrivastava09&theme=chartreuse-dark&no-frame=true&row=1&column=6" alt="trophies" />
+
+<!-- Contribution snake animation — extra flair, real widget -->
+<img src="https://raw.githubusercontent.com/Vanshsrivastava09/Vanshsrivastava09/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+
+</div>
+
+---
+
+<details>
+<summary align="center"><b>> ✨ CLICK ME ✨</b></summary>
+
+<br/>
+
+```
+Name       :  Vansh Srivastava
+From       :  Bhubaneswar, Odisha, India
+Education  :  Pursuing B.Tech in Computer Science & Communication Engineering
+              from KIIT University, Final Year (2027 batch)
+
+Interests  :  Backend systems, Machine Learning, FinTech — I like building
+              things that solve a real problem, not just demos
+Currently  :  Final year student, open to SDE / Data Science internships & roles
+Portfolio  :  vansh-portfolio-el.vercel.app
+```
+
+---
+
+<div align="center">
+
+## `> ls skills/`
 
 **// languages**
 
-<img src="https://skillicons.dev/icons?i=java,c,js,ts,py" />
+<img src="https://skillicons.dev/icons?i=java,c,javascript,typescript,python&theme=dark" width="230" />
+
+<br/><br/>
 
 **// frontend & backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker" />
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express&theme=dark" width="190" />
+
+<br/><br/>
 
 **// databases & devops**
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,vscode&theme=dark" width="280" />
+
+<br/><br/>
 
 **// ai / ml**
 
-`Scikit-Learn` &nbsp;•&nbsp; `Pandas` &nbsp;•&nbsp; `NumPy` &nbsp;•&nbsp; `Plotly` &nbsp;•&nbsp; `Matplotlib` &nbsp;•&nbsp; `Streamlit`
-
----
-
-### `cat achievements.log`
-
-```yaml
-[★] Special Mention ........... Pandora's Paradox Hackathon, KIIT E-Summit 2025
-[★] NorthStar Pay .............. Production-ready payment gateway simulator (FastAPI + Docker)
-[★] IPL Match Predictor ......... ML pipeline on 260,000+ real match records
-[★] Shipped 3+ full-stack / data projects solo, backend to dashboard
+```
+[ Scikit-Learn ]  [ Pandas ]  [ NumPy ]  [ Plotly ]  [ Matplotlib ]  [ Streamlit ]
 ```
 
----
+</div>
 
-### `./connect.sh`
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-portfolio-el.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsrivastava09/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh23srivastava@gmail.com)
+## `> cat achievements.log`
+
+```
+[★] Special Mention ............ Pandora's Paradox Hackathon, KIIT E-Summit 2025
+[★] NorthStar Pay ............... Production-ready payment gateway simulator
+                                   (FastAPI + PostgreSQL + JWT + Docker)
+[★] IPL Match Predictor ......... ML pipeline (Random Forest) on 260,000+ real match records
+[★] Shipped 3+ full-stack / data projects solo — backend, ML, and dashboards
+```
 
 </div>
 
@@ -93,7 +112,32 @@ Currently  : Final year student, open to SDE / Data Science internships & roles
 
 <div align="center">
 
-> session terminated<br/>
-> thanks for stopping by — always up for a chat about ML, backend systems, or FinTech _
+## `> ./connect.sh`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41.svg?style=flat-square&logo=vercel&logoColor=black)](https://vansh-portfolio-el.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41.svg?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vanshsrivastava09/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41.svg?style=flat-square&logo=github&logoColor=black)](https://github.com/Vanshsrivastava09)
+[![Email](https://img.shields.io/badge/Email-%2300FF41.svg?style=flat-square&logo=gmail&logoColor=black)](mailto:vansh23srivastava@gmail.com)
+
+<br/>
+
+```
+📬  vansh23srivastava@gmail.com
+```
 
 </div>
+
+---
+
+<div align="center">
+
+```
+> session terminated
+> thanks for visiting _
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&duration=3000&pause=500&color=00FF41&center=true&width=435&lines=Thank+you+for+visiting+!+%3E_" alt="Thank you for visiting!" />
+
+</div>
+
+</details>
