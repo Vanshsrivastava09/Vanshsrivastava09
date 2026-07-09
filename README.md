@@ -35,9 +35,6 @@
 <!-- Trophy showcase — extra flair, real widget -->
 <img src="https://github-profile-trophy.vercel.app/?username=Vanshsrivastava09&theme=chartreuse-dark&no-frame=true&row=1&column=6" alt="trophies" />
 
-<!-- Contribution snake animation — extra flair, real widget -->
-<img src="https://raw.githubusercontent.com/Vanshsrivastava09/Vanshsrivastava09/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
-
 </div>
 
 ---
