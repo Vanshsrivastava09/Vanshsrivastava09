@@ -1,48 +1,14 @@
 <div align="center">
 
-<!-- Typing animation intro -->
-<a href="https://github.com/Vanshsrivastava09">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Vansh+%F0%9F%91%8B;Final-Year+CSCE+Student+%40+KIIT;Building+with+Python%2C+ML+%26+Data;Turning+messy+data+into+decisions" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=%3E+SYSTEM+BOOT...;%3E+LOADING+PROFILE%3A+Vanshsrivastava09;%3E+STATUS%3A+ONLINE+%E2%9C%93" alt="boot sequence" />
+
+<br/>
+
+### Hiya! I am Vansh, Welcome to my code lab 🧪
+
+<img src="https://komarev.com/ghpvc/?username=Vanshsrivastava09&label=Profile+Visits&color=22c55e&style=flat" />
 
 </div>
-
----
-
-### `whoami`
-
-```yaml
-Name       : Vansh Srivastava
-From       : Bhubaneswar, Odisha, India
-Education  : B.Tech in Computer Science & Communication Engineering (CSCE)
-             KIIT University · Final Year (2023 – 2027)
-Interests  : Backend systems, Machine Learning, FinTech, Generative AI
-Currently  : Final year student, open to SDE / Data Science internships & roles
-```
-
----
-
-### `ls skills/`
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=java,c,js,ts,py" />
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker,git,github,vscode,postman" />
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" />
-
-**Core Concepts**
-
-`OOP` &nbsp;•&nbsp; `DBMS` &nbsp;•&nbsp; `DSA` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Problem Solving`
-
-**AI / ML**
-
-`Scikit-Learn` &nbsp;•&nbsp; `Pandas` &nbsp;•&nbsp; `NumPy` &nbsp;•&nbsp; `Plotly` &nbsp;•&nbsp; `Matplotlib` &nbsp;•&nbsp; `Streamlit`
 
 ---
 
@@ -59,26 +25,57 @@ Currently  : Final year student, open to SDE / Data Science internships & roles
 
 ---
 
-### `cat achievements.log`
+<div align="center">
+
+<details>
+<summary>▶ &nbsp;✨ <b>CLICK ME</b> ✨</summary>
+
+<br/>
 
 ```yaml
-[★] Special Mention — Pandora's Paradox Hackathon, KIIT E-Summit 2025
-[★] Built NorthStar Pay — production-ready payment gateway simulator (FastAPI + Docker)
-[★] Built an ML-based IPL match predictor processing 260,000+ real match records
-[★] Shipped 3+ full-stack / data projects solo, from backend to dashboard
+Name       : Vansh Srivastava
+From       : Bhubaneswar, Odisha, India
+Education  : Pursuing B.Tech in Computer Science & Communication Engineering
+             from KIIT University, Final Year (2027 batch)
+Interests  : Backend systems, Machine Learning, FinTech — I like building 
+             things that actually solve a real problem, not just demos
+Currently  : Final year student, open to SDE / Data Science internships & roles
 ```
+
+</details>
+
+</div>
 
 ---
 
-### Featured Projects
+### `ls skills/`
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[NorthStar Pay](https://github.com/Vanshsrivastava09)** | FastAPI · PostgreSQL · SQLAlchemy · JWT · Docker | Wallet creation, merchant payments, JWT + OTP auth, Dockerized |
-| **[IPL Analytics & Predictor](https://github.com/Vanshsrivastava09)** | Python · SQLite · Streamlit · Scikit-Learn | Random Forest predictor on 260K+ records, SQL dashboards |
-| **[E-Commerce Analytics Dashboard](https://github.com/Vanshsrivastava09)** | Python · Streamlit · Pandas · Plotly | KPI tracking, EDA, interactive forecasting visuals |
+**// languages**
 
-*(Replace the placeholder links above with your actual repo URLs.)*
+<img src="https://skillicons.dev/icons?i=java,c,js,ts,py" />
+
+**// frontend & backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,docker" />
+
+**// databases & devops**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,git,github,vscode" />
+
+**// ai / ml**
+
+`Scikit-Learn` &nbsp;•&nbsp; `Pandas` &nbsp;•&nbsp; `NumPy` &nbsp;•&nbsp; `Plotly` &nbsp;•&nbsp; `Matplotlib` &nbsp;•&nbsp; `Streamlit`
+
+---
+
+### `cat achievements.log`
+
+```yaml
+[★] Special Mention ........... Pandora's Paradox Hackathon, KIIT E-Summit 2025
+[★] NorthStar Pay .............. Production-ready payment gateway simulator (FastAPI + Docker)
+[★] IPL Match Predictor ......... ML pipeline on 260,000+ real match records
+[★] Shipped 3+ full-stack / data projects solo, backend to dashboard
+```
 
 ---
 
@@ -86,7 +83,7 @@ Currently  : Final year student, open to SDE / Data Science internships & roles
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vansh-portfolio-el.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanshsrivastava09/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vansh23srivastava@gmail.com)
 
@@ -95,5 +92,8 @@ Currently  : Final year student, open to SDE / Data Science internships & roles
 ---
 
 <div align="center">
-<sub>Thanks for stopping by — always open to interesting conversations about ML, backend systems, or FinTech.</sub>
+
+> session terminated<br/>
+> thanks for stopping by — always up for a chat about ML, backend systems, or FinTech _
+
 </div>
