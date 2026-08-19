@@ -28,7 +28,7 @@
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=Vanshsrivastava09&theme=chartreuse-dark&hide_border=true" height="160" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api?username=Vanshsrivastava09&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
+<img src="https://ghstats.dev/api/card?username=Vanshsrivastava09&custom_title=Vansh+Srivastava+%7C+PROFILE+STATISTICS&order=grade%2Ccommits%2Chours%2Cweek%2Ctrend%2Cavg%2Ccontributions%2Cprs%2Cissues%2Cstars%2Cstreak%2Cactive_day%2Crepos%2Cfollowers" alt="GitHub profile statistics" />
 
 <br/>
 
